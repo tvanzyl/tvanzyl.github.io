@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Terence van Zyl</title>
-    <link>https://https://tvanzyl.github.io/</link>
+    <link>https://tvanzyl.github.io/</link>
     <description>Recent content on Website of Terence van Zyl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://https://tvanzyl.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tvanzyl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://https://tvanzyl.github.io/about/</link>
+      <link>https://tvanzyl.github.io/about/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/about/</guid>
+      <guid>https://tvanzyl.github.io/about/</guid>
       <description>Trained as a Computer Scientist in Artificial Intelligence and Complex Adaptive Systems.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://https://tvanzyl.github.io/research/</link>
+      <link>https://tvanzyl.github.io/research/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/research/</guid>
+      <guid>https://tvanzyl.github.io/research/</guid>
       <description>Representation Learning Machine learning requires strong priors/predicates, and a smaller amount of empirical risk minimization.</description>
     </item>
     
     <item>
       <title>Catastrophic Forgetting in Similarity Learning</title>
-      <link>https://https://tvanzyl.github.io/projects/catastrophic_similarity/</link>
+      <link>https://tvanzyl.github.io/projects/catastrophic_similarity/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/projects/catastrophic_similarity/</guid>
+      <guid>https://tvanzyl.github.io/projects/catastrophic_similarity/</guid>
       <description>&lt;p&gt;This research project looks at the impact of catastrophic forgetting in similarity learning.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Surrogate Assisted Agent Based Modelling</title>
-      <link>https://https://tvanzyl.github.io/projects/surrogate_abm/</link>
+      <link>https://tvanzyl.github.io/projects/surrogate_abm/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/projects/surrogate_abm/</guid>
+      <guid>https://tvanzyl.github.io/projects/surrogate_abm/</guid>
       <description>&lt;p&gt;This research project looks at the surrogate assisted agent based modelling of COVID-19.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nedbank Research Chair</title>
-      <link>https://https://tvanzyl.github.io/projects/nedbank_research_chair/</link>
+      <link>https://tvanzyl.github.io/projects/nedbank_research_chair/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/projects/nedbank_research_chair/</guid>
+      <guid>https://tvanzyl.github.io/projects/nedbank_research_chair/</guid>
       <description>&lt;p&gt;I currently hold the Nedbank Research and Innovation Chair. The Chair is housed at the University of Johannesburg&amp;rsquo;s Institute for Intelligent systems.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://https://tvanzyl.github.io/archives/</link>
+      <link>https://tvanzyl.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/archives/</guid>
+      <guid>https://tvanzyl.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://https://tvanzyl.github.io/pubs/</link>
+      <link>https://tvanzyl.github.io/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/pubs/</guid>
+      <guid>https://tvanzyl.github.io/pubs/</guid>
       <description>Journal Articles 2020  Surrogate Assisted Methods for the Parameterisation of Agent-Based Models</description>
     </item>
     

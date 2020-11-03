@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Website of Terence van Zyl</title>
-    <link>https://https://tvanzyl.github.io/tags/index/</link>
+    <link>https://tvanzyl.github.io/tags/index/</link>
     <description>Recent content in index on Website of Terence van Zyl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://https://tvanzyl.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tvanzyl.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>https://https://tvanzyl.github.io/projects/</link>
+      <link>https://tvanzyl.github.io/projects/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/projects/</guid>
+      <guid>https://tvanzyl.github.io/projects/</guid>
       <description></description>
     </item>
     
