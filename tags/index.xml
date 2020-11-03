@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Website of Terence van Zyl</title>
-    <link>https://https://tvanzyl.github.io/tags/</link>
+    <link>https://tvanzyl.github.io/tags/</link>
     <description>Recent content in Tags on Website of Terence van Zyl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://https://tvanzyl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tvanzyl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>nedbankchair</title>
-      <link>https://https://tvanzyl.github.io/tags/nedbankchair/</link>
+      <link>https://tvanzyl.github.io/tags/nedbankchair/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/tags/nedbankchair/</guid>
+      <guid>https://tvanzyl.github.io/tags/nedbankchair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://https://tvanzyl.github.io/tags/index/</link>
+      <link>https://tvanzyl.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://https://tvanzyl.github.io/tags/index/</guid>
+      <guid>https://tvanzyl.github.io/tags/index/</guid>
       <description></description>
     </item>
     
