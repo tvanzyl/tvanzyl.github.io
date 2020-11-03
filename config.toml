@@ -1,0 +1,98 @@
+baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Jane Doe"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Terence >' Zyl"
+author = "Terence L. van Zyl"
+description = "Prof. Terence L. van Zyl @ Unversity of Johannesburg"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["projects"]
+images = ["images/site-feature-image.png"]
+displayMode = "dark"
+# Google Site Verification
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
+## Math settings
+[params.math]
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/terence-van-zyl-b9b00b4/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/tvanzyl"
+
+[[params.socialIcons]]
+icon = "fab fa-orcid"
+title = "orcid"
+url = "http://orcid.org/0000-0003-4281-630X"
+
+[[params.socialIcons]]
+icon = "fab fa-google"
+title = "google-scholar"
+url = "https://scholar.google.com/citations?user=9DLVr5oAAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:tvanzyl@uj.ac.za"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Publications"
+  weight = 300
+  identifier = "publication"
+  url = "/pubs/"
+
+  [[menu.main]]
+  name = "Research"
+  weight = 400
+  identifier = "research"
+  url = "/research/"
+  
+  [[menu.main]]
+  name = "Projects"
+  weight = 500
+  identifier = "projects"
+  url = "/projects/"
+  
+  
+  

@@ -1,0 +1,10 @@
+<p {{ with .Get "class" }}class="paper"{{ end }}>
+<span {{ with .Get "title" }}class="papertitle"{{ end }}><strong>{{.Get "title"}}</strong></span><br />
+<span {{ with .Get "authors" }}class="paperauthors"{{ end }}>{{.Get "authors"}}</span><br />
+<span {{ with .Get "journal"}}class="paperjournal"{{ end }}><em>{{.Get "journal"}}</em></span>
+<span {{ with .Get "doi" }}class="paperdoi"{{ end }}><a href="">{{.Get "doi"}}</a></span><br />
+<span {{ with .Get "arxiv" }}class="paperarxiv"{{ end }}><a href="">{{.Get "arxiv"}}</a></span>
+</p>
+
+
+
