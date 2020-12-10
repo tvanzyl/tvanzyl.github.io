@@ -6,7 +6,7 @@ description: Surrogate Assisted Data-Driven Evolutionary Computing
 math: true
 ---
 
-An interesting application arises at the intersection of evolutionary computing and machine learning when attempts are made to capitalise on the strengths of both of these paradigms simultaneously.
+Interesting applications arises at the intersection of evolutionary computing and machine learning when we capitalise on the strengths of both of these paradigms simultaneously.
 <!--more-->
 
 Computational Intelligence, specifically evolutionary computing, has shown substantive utility in the optimisation of complex non-linear systems with numerous positive and negative feedback loops. These non-linear systems are often difficult to optimise directly or generically and often entail long-running simulations to evaluate even with known parameters. 
