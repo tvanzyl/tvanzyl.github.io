@@ -4,9 +4,9 @@ Journal Articles
 #### 2020
 
 > {{< paper 
-title="Surrogate Assisted Methods for the Parameterisation of Agent-Based Models"  
-authors="R. Perumal and T.L. van Zyl"  
-journal="arXiv preprint arXiv:2008.11835, Jan-Dec. 2020" 
+title="Applications of Machine Learning to Estimating the Sizes and Market Impact of Hidden Orders in the BRICS Financial Markets"  
+authors="W. Maake and T. Van Zyl"  
+journal="Journal of Advanced Studies in Finance, vol. 11, no. 1(21), pp. 28--64, Jan-Dec. 2020" 
  >}} 
 
 > {{< paper 
@@ -73,7 +73,7 @@ journal="Transactions in GIS, Jan-Dec. 2011"
 
 > {{< paper 
 title="Earth observation sensor web: An overview"  
-authors="L. Di, K. Moe, and T. van Zyl"  
+authors="L. Di, K. Moe, and T.L. van Zyl"  
 journal="IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 3, no. 4, pp. 415--417, Jan-Dec. 2010" 
  >}} 
 
@@ -93,7 +93,7 @@ journal="Complexity, vol. 15, no. 6, pp. 50--63, Jan-Dec. 2010"
 
 > {{< paper 
 title="The sensor web: systems of sensor systems"  
-authors="T. van Zyl, I. Simonis, and G. McFerren"  
+authors="T.v. Zyl, I. Simonis, and G. McFerren"  
 journal="International Journal of Digital Earth, vol. 2, no. 1, pp. 16--30, Jan-Dec. 2009" 
  >}} 
 
@@ -145,6 +145,12 @@ journal="1--6, 2020 International SAUPEC/RobMech/PRASA Conference, IEEE, Jan-Dec
 title="Unique Faces Recognition in Videos"  
 authors="J. Huo and T.L. van Zyl"  
 journal="2020 IEEE 23rd International Conference on Information Fusion (FUSION), Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Surrogate Assisted Methods for the Parameterisation of Agent-Based Models"  
+authors="R. Perumal and T.L. van Zyl"  
+journal="arXiv preprint arXiv:2008.11835, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
