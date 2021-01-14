@@ -12,7 +12,7 @@ journal="Journal of Advanced Studies in Finance, vol. 11, no. 1(21), pp. 28--64,
 > {{< paper 
 title="A framework for online investment decisions"  
 authors="A.B. Paskaramoorthy, T.J. Gebbie, and T.L. van Zyl"  
-journal="Investment Analysts Journal, pp. 1--17, Jan-Dec. 2020" 
+journal="Investment Analysts Journal, vol. 49, no. 3, pp. 215--231, Jan-Dec. 2020" 
  >}} 
 
 #### 2018
@@ -150,7 +150,7 @@ journal="2020 IEEE 23rd International Conference on Information Fusion (FUSION),
 > {{< paper 
 title="Surrogate Assisted Methods for the Parameterisation of Agent-Based Models"  
 authors="R. Perumal and T.L. van Zyl"  
-journal="arXiv preprint arXiv:2008.11835, Jan-Dec. 2020"  
+journal="2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
@@ -160,7 +160,7 @@ journal="1--15, 2020 International Conference on Artificial Intelligence, Big Da
 >}} 
 
 > {{< paper 
-title="A rules-based and Transfer Learning approach for deriving the Hubble type of a galaxy from the Galaxy Zoo data"  
+title="A rules-based and transfer learning approach for deriving the hubble type of a galaxy from the galaxy zoo data"  
 authors="M. Variawa, T. van Zyl, and M. Woolway"  
 journal="1--7, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
@@ -184,7 +184,7 @@ journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FU
 >}} 
 
 > {{< paper 
-title="Data-Driven Evolutionary Optimisation for the design parameters of a Chemical Process: A Case Study"  
+title="Data-driven evolutionary optimisation for the design parameters of a chemical process: A case study"  
 authors="L. Stander, M. Woolway, and T. van Zyl"  
 journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
@@ -193,6 +193,48 @@ journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FU
 title="Deep Similarity Learning for Soccer Team Ranking"  
 authors="H. Manack and T.L. Van Zyl"  
 journal="1--7, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="DRICORN-K: A Dynamic RIsk CORrelation-driven Non-parametric Algorithm for Online Portfolio Selection"  
+authors="S. Sooklal, T.L. van Zyl, and A. Paskaramoorthy"  
+journal="183--196, Southern African Conference for Artificial Intelligence Research, Springer, Cham, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Comparing Generalisation Using Crowd-Sourced vs Expert Labels for Galaxies Classification"  
+authors="M. Variawa, T. van Zyl, and M. Woolway"  
+journal="158--162, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Makespan Minimisation for Multipurpose Batch Plants Using Metaheuristic Approaches"  
+authors="T. van Zyl and M. Woolway"  
+journal="56--60, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Automated Identification of Individuals in Wildlife Population Using Siamese Neural Networks"  
+authors="N. Dlamini and T.L. van Zyl"  
+journal="224--228, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Comparative Analysis of Catastrophic Forgetting in Metric Learning"  
+authors="J. Huo and T.L. van Zyl"  
+journal="68--72, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Extended Surrogate Assisted Continuous Process Optimisation"  
+authors="L. Stander, M. Woolway, and T. van Zyl"  
+journal="275--279, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+>}} 
+
+> {{< paper 
+title="Prediction Interval Construction for Multivariate Point Forecasts Using Deep Learning"  
+authors="T. Mathonsi and T.L. van Zyl"  
+journal="88--95, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 #### 2019
