@@ -1,6 +1,14 @@
 Journal Articles
 ---
 
+#### 2021
+
+> {{< paper 
+title="Determining Real-Time Patterns of Lightning Strikes from Sensor Observations"  
+authors="B.H. Sibolla, T. Van Zyl, and S. Coetzee"  
+journal="Journal of Geovisualization and Spatial Analysis, vol. 5, no. 1, pp. 1--18, Jan-Dec. 2021" 
+ >}} 
+
 #### 2020
 
 > {{< paper 
@@ -13,6 +21,12 @@ journal="Journal of Advanced Studies in Finance, vol. 11, no. 1(21), pp. 28--64,
 title="A framework for online investment decisions"  
 authors="A.B. Paskaramoorthy, T.J. Gebbie, and T.L. van Zyl"  
 journal="Investment Analysts Journal, vol. 49, no. 3, pp. 215--231, Jan-Dec. 2020" 
+ >}} 
+
+> {{< paper 
+title="Automated Music Recommendations Using Similarity Learning"  
+authors="J. Burns and T.L. van Zyl"  
+journal="SACAIR 2020, pp. 288, Jan-Dec. 2020" 
  >}} 
 
 #### 2018
@@ -231,16 +245,10 @@ authors="L. Stander, M. Woolway, and T. van Zyl"
 journal="275--279, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
-> {{< paper 
-title="Prediction Interval Construction for Multivariate Point Forecasts Using Deep Learning"  
-authors="T. Mathonsi and T.L. van Zyl"  
-journal="88--95, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
->}} 
-
 #### 2019
 
 > {{< paper 
-title="Comparative Metaheuristic Performance for the Scheduling of Multipurpose Batch Plants"  
+title="Comparative metaheuristic performance for the scheduling of multipurpose batch plants"  
 authors="Z. Bowditch, M. Woolway, and T. van Zyl"  
 journal="121--125, 2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2019"  
 >}} 
@@ -258,7 +266,7 @@ journal="1--6, 2019 International Multidisciplinary Information Technology and E
 >}} 
 
 > {{< paper 
-title="A Systematic Review on Big Data Analytics Frameworks for Higher Education-Tools and Algorithms"  
+title="A systematic review on big data analytics frameworks for higher education-tools and algorithms"  
 authors="D. Otoo-Arthur and T. Van Zyl"  
 journal="1--9, Proceedings of the 2019 2nd International Conference on E-Business, Information Management and Computer Science, Jan-Dec. 2019"  
 >}} 
@@ -290,7 +298,7 @@ journal="798--799, Geoscience and Remote Sensing Symposium (IGARSS), 2013 IEEE I
 #### 2009
 
 > {{< paper 
-title="Using sensorml to describe scientific workflows in distributed Web Service environments"  
+title="Using SensorML to describe scientific workflows in distributed Web Service environments"  
 authors="T. Van Zyl and A. Vahed"  
 journal="V--375, 2009 IEEE International Geoscience and Remote Sensing Symposium, IEEE, Jan-Dec. 2009"  
 >}} 

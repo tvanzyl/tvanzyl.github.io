@@ -11,9 +11,10 @@ featured : true
 
 I currently hold the Nedbank Research and Innovation Chair. The Chair is housed at the University of Johannesburg's Institute for Intelligent systems.
 <!--more-->
+
+#### The Chair
+
 The University of Johannesburg's Institute for Intelligent Systems has collaborated with Nedbank in establishing a Nedbank Research Chair. The Research Chair will provide leadership for UJ and Nedbank moving forward into the Fourth Industrial Revolution (4IR). This leadership will be nurtured through applied research and the development of the skills of the future. In developing this human capacity, the Chair will expand scientific research and innovation in areas aligned to the multi-disciplinary nature of 4IR. The Chair, as part of its activities, will seek to improve international research and innovation competitiveness in 4IR - while responding to national social and economic challenges. Generate research excellence in topics aligned with Nedbank and UJ's vision of 4IR. The Chair will with Nedbank seeks to develop an innovative ecosystem for mid-career researchers through championing and expanding existing talent pathways. These pathways will include Master Classes and academic interventions and coordination across UJ Faculties and the College of Business and Economics.
-
-
 
 #### Objectives
 
