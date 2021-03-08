@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark"><head>
-    <title> Terence L. van Zyl | Surrogate Assisted Agent Based Modelling </title>
+    <title> Terence L. van Zyl | Machine Learning in Finance </title>
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.74.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -21,7 +21,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="https://tvanzyl.github.io/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://tvanzyl.github.io/favicons/favicon-16x16.png">
 
-    <link rel="canonical" href="https://tvanzyl.github.io/projects/surrogate_abm/">
+    <link rel="canonical" href="https://tvanzyl.github.io/projects/portfolio_management/">
 
     
     
@@ -34,8 +34,8 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://tvanzyl.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="Surrogate Assisted Agent Based Modelling"/>
-<meta name="twitter:description" content="Surrogate Assisted Agent Based Modelling"/>
+<meta name="twitter:title" content="Machine Learning in Finance"/>
+<meta name="twitter:description" content="Machine Learning in Finance"/>
 
 </head>
 <body><div class="sidebar animated fadeInDown">
@@ -140,23 +140,24 @@
         <div class="post-content">
 
             <div class="post-title">
-                <h3>Surrogate Assisted Agent Based Modelling</h3>
+                <h3>Machine Learning in Finance</h3>
                 
             </div>
 
-            <p>Agent-Based Models (ABMs) as complex adaptive simulations which are able to incorporate real world nuance into their design. This research looks at the surrogate (machine learning) assisted agent based modelling.</p>
-<h4 id="surrogate-assisted-meta-heuristic-optimisation-for-complex-simulation-model">Surrogate Assisted Meta-Heuristic Optimisation for Complex Simulation Model</h4>
-<p>Agent-Based Models (ABMs) are complex adaptive simulations that can incorporate real-world nuance into their design. However, this increase in flexibility results in many parameters that need to be optimised when using such simulations. The time required to accurately parameterise ABMs make them infeasible primarily to implement in practice. Machine Learning techniques can be used to generate Surrogate Models, which serve as function approximators for these simulations. Surrogate assisted optimisation approaches are used to address the parameterisation challenges in ABMs.  The research shows that surrogate assisted optimisation of complex adaptive simulations is at the forefront of solving computationally expensive high dimensional real-world problems.</p>
-<ul>
-<li>Using Particle Swarm Optimisations and Surrogates for Modelling Pandemics such as COVID-19 for balancing the trade-off between exploration and  exploitation.</li>
-<li>Application of Surrogate Assisted Meta-Heuristic Optimisation Strategies in Agent-Based Models for investigating how our strategies extend to other complex simulation models such as <em>Growing Artificial Societies</em>, <em>COVID-19</em>, <em>Opinion Spread</em>.</li>
-</ul>
-<h4 id="forecasting-and-anomaly-detection">Forecasting and Anomaly Detection</h4>
-<p>Discrete-Event Process Simulation models a system&rsquo;s functionality as a sequence of discrete events in time. Events occur at particular instances in time, and they mark changes of states in the system. The system is assumed to remain unchanged between consecutive events, and the simulation can jump directly between events. These simulations are especially prevalent in industry contexts such as process scheduling, logistics, finance, networking and hospitality. We can use these simulation models for forecasting, scenario planning and anomaly detection. For anomaly detection, a forecast is created by running several stochastic variations of the simulation, producing a distribution over possible future outcomes. If the observed results are significantly different from those forecasts, one can flag the observations as possible anomalies.
-We can use surrogates as function approximators for a discrete-event process. Surrogates are less accurate than the original simulation; however, they provide speed-up and better capture the prediction intervals. Balancing the trade-off between the loss in accuracy and speed up in time is imperative to large scale industrial systems. We are exploring a Discrete Event Simulation Frameworks for Modelling Industrial and Business Processes. For example, Financial Risk associated with defaulting on loans and optimising the scheduling and logistics of a distributed cloud computing infrastructure.</p>
+            <p>This research project looks at the intersection of finance and machine learning.</p>
+<h4 id="improving-dricorn-k-using-recurrent-neural-networks-and-similarity-learning">Improving DRICORN-K using Recurrent Neural Networks and Similarity learning</h4>
+<p>Online Portfolio Selection is a fundamental problem in Computational Finance. Our recent pattern-Matching method, DRICORN-K: A Dynamic RIsk CORrelation-driven Non-parametric Algorithm for Online Portfolio Selection, has shown itself to be a promising technique. DRICORN-K, the current state of the art, considers systematic risk and leads to better investment returns, especially in volatile markets. However, there is still a gap concerning the estimation of volatility and computational overhead associated with pattern-matching. This research project will investigate machine learning and similarity learning to improve the DRICORN-K algorithm and other pattern-matching algorithm</p>
+<ol>
+<li>To what extent can we improve return and volatility estimation using deep recurrent neural networks for online portfolio selection.</li>
+<li>To what extent can similarity learning be employed to improve inter-temporal pattern matching in financial time series over for instance classical methods such as dynamic time warping (DTW).</li>
+</ol>
+<h4 id="reinforcement-learning-for-inter-temporal-portfolio-choice-problems">Reinforcement Learning for Inter-temporal Portfolio Choice problems</h4>
+<p>The mean-variance portfolio optimisation approach, commonly thought of as risk versus return or greed versus fear, is inherently solved as a myopic single-period problem. In reality, we sometimes think of investment problems as involving longer horizons with intermediate portfolio rebalancing with associated transaction costs and potential consumption. The most straightforward way to address these issues is to explicitly formulate the problem in terms of inter-temporal expected utility maximisation [1]. We consider the consumption-investment problem with a constant relative risk aversion preference function, who possesses noisy information about a stock&rsquo;s prospects. It has been shown that information can significantly alter consumption and asset allocation decisions [2]. This problem is well suited to reinforcement learning or stochastic control/dynamic programming.  To this end, we propose the use of reinforcement learning or stochastic control/dynamic programming to allocate between cash and an index to maximise utility for an agent.</p>
+<h4 id="outperforming-an-index-such-as-the-sp-500-or-jse-top-40">Outperforming An Index such as the S&amp;P 500 or JSE Top 40</h4>
+<p>The mean-variance paradigm (MVP) of Markowitz (1952) is the most common formulation of portfolio choice problems. We have a set of N risky assets and a risk-free asset with a known return. The problem is to allocate wealth amongst the assets to minimise the risk for a given expected return. Index tracking funds are passive investment instruments, often traded as an exchange-traded fund (ETF). An ETF has an associated risk derived from the weighting of its constituent assets. An alternate formulation of MVP would be to maximise return for a given expected risk. This research project will formulate an alternate portfolio for index-tracking ETF&rsquo;s assets to capture the same expected risk whilst achieving a maximised reward. We can further extend the project to use various machine learning and statistical models to estimate both returns and risk in arriving at an optimal portfolio.</p>
 <h2 id="collaborators">Collaborators</h2>
 <ul>
-<li>Rylan Perumal, University of the Witwatersrand</li>
+<li>Andrew Paskaramoorthy, University of the Witwatersrand</li>
 </ul>
         </div>
         <div class="post-footer">

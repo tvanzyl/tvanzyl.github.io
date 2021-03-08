@@ -6,10 +6,37 @@
     <description>Recent content in Research on Website of Terence van Zyl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tvanzyl.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Catastrophic Forgetting in Similarity Learning</title>
+      <link>https://tvanzyl.github.io/projects/catastrophic_similarity/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tvanzyl.github.io/projects/catastrophic_similarity/</guid>
+      <description>&lt;p&gt;This research project looks at the impact of catastrophic forgetting and incremental learning in similarity learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Finance</title>
+      <link>https://tvanzyl.github.io/projects/portfolio_management/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tvanzyl.github.io/projects/portfolio_management/</guid>
+      <description>&lt;p&gt;This research project looks at the intersection of finance and machine learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Surrogate Assisted Agent Based Modelling</title>
+      <link>https://tvanzyl.github.io/projects/surrogate_abm/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tvanzyl.github.io/projects/surrogate_abm/</guid>
+      <description>&lt;p&gt;Agent-Based Models (ABMs) as complex adaptive simulations which are able to incorporate real world nuance into their design. This research looks at the surrogate (machine learning) assisted agent based modelling.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Surrogate Assisted Data-Driven Evolutionary Computing</title>
@@ -18,24 +45,6 @@
       
       <guid>https://tvanzyl.github.io/projects/data_driven_surrogate/</guid>
       <description>&lt;p&gt;Interesting applications arises at the intersection of evolutionary computing and machine learning when we capitalise on the strengths of both of these paradigms simultaneously.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Catastrophic Forgetting in Similarity Learning</title>
-      <link>https://tvanzyl.github.io/projects/catastrophic_similarity/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tvanzyl.github.io/projects/catastrophic_similarity/</guid>
-      <description>&lt;p&gt;This research project looks at the impact of catastrophic forgetting in similarity learning.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Surrogate Assisted Agent Based Modelling</title>
-      <link>https://tvanzyl.github.io/projects/surrogate_abm/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://tvanzyl.github.io/projects/surrogate_abm/</guid>
-      <description>&lt;p&gt;This research project looks at the surrogate assisted agent based modelling of COVID-19.&lt;/p&gt;</description>
     </item>
     
     <item>
