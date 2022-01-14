@@ -28,7 +28,7 @@ customCss = []
 customJs = []
 mainSections = ["projects"]
 images = ["images/site-feature-image.png"]
-displayMode = "dark"
+#displayMode = "dark"
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
