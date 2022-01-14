@@ -394,7 +394,7 @@ journal="1--9, Proceedings of the 2019 2nd International Conference on E-Busines
 > {{< paper 
 title="Geospatial data stream processing in Python using FOSS4G components"  
 authors="G. McFerren and T.L. Van Zyl"  
-journal=", ISPRS, Jan-Dec. 2016"  
+journal="ISPRS, Jan-Dec. 2016"  
 >}} 
 
 #### 2014
@@ -402,7 +402,19 @@ journal=", ISPRS, Jan-Dec. 2016"
 > {{< paper 
 title="A comparison of machine learning techniques for predicting downstream acid mine drainage"  
 authors="T.L. van Zyl"  
-journal=", IGARRS, Jan-Dec. 2014"  
+journal="IGARRS, Jan-Dec. 2014"  
+>}} 
+
+> {{< paper 
+title="Fire hazard notifications via Satellite, Twitter, Citizen Reports, and Android Apps"  
+authors="L. Butgereit, S. Moonsamy, T. Thomson, T. Van Zyl, and G. McFerren"  
+journal="Proceedings of the African Cyber Citizen Conference, Jan-Dec. 2014"  
+>}} 
+
+> {{< paper 
+title="Adding temporal data enhancements to the advanced spatial data infrastructure platform"  
+authors="B. Sibolla, T. Van Zyl, G. McFerren, and D. Hohls"  
+journal="AARSE2014, Jan-Dec. 2014"  
 >}} 
 
 #### 2013
@@ -413,7 +425,27 @@ authors="T.L. van Zyl and G. Mcferren"
 journal="798--799, Geoscience and Remote Sensing Symposium (IGARSS), 2013 IEEE International, IEEE, Jan-Dec. 2013"  
 >}} 
 
+#### 2012
+
+> {{< paper 
+title="Harnessing cyber-infrastructure for local scale climate change research in Africa"  
+authors="A. Vahed, F. Engelbrecht, I. Simonis, M. Naidoo, B. Sibolla, T. Van Zyl, and G. McFerren"  
+journal="IST-Africa Conference Proceedings, Jan-Dec. 2012"  
+>}} 
+
+> {{< paper 
+title="Beyond GIS with EO4VisTrails: a geospatio-temporal scientific workflow environment"  
+authors="T.L. Van Zyl"  
+journal="EE Publishers, Jan-Dec. 2012"  
+>}} 
+
 #### 2009
+
+> {{< paper 
+title="IT infrastructure enabling open access for flood risk preparedness in South Africa"  
+authors="T. Van Zyl, C. Parbhoo, D. Moodley, B. Cwela, D. Umuhoza, P. Shabangu, and A. Vahed"  
+journal="6th International ISCRAM 2009 Conference, Jan-Dec. 2009"  
+>}} 
 
 > {{< paper 
 title="Using SensorML to describe scientific workflows in distributed web service environments"  
