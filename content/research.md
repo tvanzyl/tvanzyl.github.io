@@ -1,11 +1,13 @@
 +++
 description = "About TvZ"
-date = "2020-11-02"
+date = "2023-03-19"
 aliases = ["about-us", "about-tvz", "cv"]
 author = "Terence van Zyl"
 +++
+<iframe width="954" height="2284" frameborder="0"
+src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSn63EXJGcl7lv-mg05bQGZ7pGeo4KZAphRxKw2896CV9tsQAVijTJbn-Uo1cxthgxI5W3eqcYApVbv/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
 
-#### Representation Learning
+<!-- #### Representation Learning
 
 Machine learning requires strong priors/predicates, and a smaller amount of empirical risk minimization. Understanding the nature of data will lead to a formulation of appropriate priors/predicates for ML and in doing so allow for improved performance with fewer data. Currently, many approaches such as convolutional neural networks are not explicit about the priors/predicates used and as such cannot exploit this framework. The aim is to understand the nature of data and its structure at a fundamental level by ingesting the mathematical theory and translating it into experiments designs to test the theory. 
 
@@ -39,5 +41,5 @@ Having an accurate heuristic method for determining k in the class of k-NN Kerne
 
 #### Learning Complex Adaptive Systems
 
-The only examples we have of "truly" learning adaptive systems are living organism that has been hypothesised to be complex adaptive signal regulatory systems. The aim is to formulate learning in complex adaptive signal regulatory systems to achieve AI. 
+The only examples we have of "truly" learning adaptive systems are living organism that has been hypothesised to be complex adaptive signal regulatory systems. The aim is to formulate learning in complex adaptive signal regulatory systems to achieve AI.  -->
 

@@ -13,6 +13,9 @@ enableRobotsTXT = true
 # Google Analytics
 #googleAnalytics = "UA-123-45"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 title = "Terence >' Zyl"
 author = "Terence L. van Zyl"
