@@ -11,17 +11,23 @@ Working as the [Nedbank](https://www.nedbank.co.za/) research chair at the [Univ
 
 ### Education
 
-`PhD in Artificial Intelligence, (University of Johannesburg, 2010)`
-* **Using self-adaptive components to realise agent Ontogenesis.** Prof E.M. Ehlers. 
+`PhD in Computer Science, (University of Johannesburg, 2010)`
+* **Using self-adaptive components to realise agent Ontogenesis.**
 
-`MSc in Artificial Intelligence, (Rand Afrikaans University, 2005)`
-* **Integration of secure resource negotiating agents into a Telemanufacturing environment.** Prof E.M. Ehlers.
+`MSc in Computer Science, (Cum Laude) (University of Johannesburg, 2005)`
+* **Integration of secure resource negotiating agents into a Telemanufacturing environment.**
+
+`BSc Honours in Computer Science (Cum Laude), (Rand Afrikaans University, 2002)`
+* **Artificial Intelligence - Optimisation - Functional Programming - Robotics - Networking - Graphics - Parallel Programming - Ethical, Audit \& Legal**
+
+`BSc in Information Technology, (Rand Afrikaans University, 2001)`
+* **Computer Science - Informatics**
 
 ### Professional Experience
 
 *2020 - pres.* 
 * `University of  Johannesburg, Institute for Intelligent Systems`
-* **Full Professor, Nedbank Chair in 4IR**
+* **Professor, Nedbank Research Chair**
 
 *2016 - 2020.* 
 * `University of the Witwatersrand, School of Computer Science and Applied Mathematics`

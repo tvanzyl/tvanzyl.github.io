@@ -4,8 +4,14 @@ Journal Articles
 #### 2022
 
 > {{< paper 
+title="Surrogate-assisted strategies: the parameterisation of an infectious disease agent-based model"  
+authors="R. Perumal and T.L.v. Zyl"  
+journal="Neural Computing and Applications, pp. 1--12, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
 title="Multivariate anomaly detection based on prediction intervals constructed using deep learning"  
-authors="T. Mathonsi and T.L.v. Zyl"  
+authors="T. Mathonsi and T.L. van Zyl"  
 journal="Neural Computing and Applications, pp. 1--15, Jan-Dec. 2022" 
  >}} 
 
@@ -15,12 +21,48 @@ authors="T. Mathonsi and T.L. van Zyl"
 journal="Forecasting, vol. 4, no. 1, pp. 1--25, Jan-Dec. 2022" 
  >}} 
 
+> {{< paper 
+title="Investigating Explainability Methods in Recurrent Neural Network Architectures for Financial Time Series Data"  
+authors="W. Freeborough and T.L. van Zyl"  
+journal="Applied Sciences, vol. 12, no. 3, pp. 1427, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
+title="Transfer learning and deep metric learning for automated galaxy morphology representation"  
+authors="M.Z. Variawa, T.L. Van Zyl, and M. Woolway"  
+journal="IEEE Access, vol. 10, pp. 19539--19550, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
+title="Deep Reinforcement Learning and Convex Mean-Variance Optimisation for Portfolio Management"  
+authors="R. Pretorius and T. van Zyl"  
+journal="arXiv preprint arXiv:2203.11318, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
+title="Evaluating State of the Art, Forecasting Ensembles-and Meta-learning Strategies for Model Fusion"  
+authors="P. Cawood and T. van Zyl"  
+journal="Forecasting, vol. 4, pp. 732--751, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
+title="Investigating Transfer Learning in Graph Neural Networks"  
+authors="N. Kooverjee, S. James, and T. Van Zyl"  
+journal="Electronics, vol. 11, no. 8, pp. 1202, Jan-Dec. 2022" 
+ >}} 
+
+> {{< paper 
+title="Surrogate-assisted evolutionary multi-objective optimisation applied to a pressure swing adsorption system"  
+authors="L. Stander, M. Woolway, and T.L. Van Zyl"  
+journal="Neural Computing and Applications, pp. 1--17, Jan-Dec. 2022" 
+ >}} 
+
 #### 2021
 
 > {{< paper 
 title="Determining real-time patterns of lightning strikes from sensor observations"  
 authors="B.H. Sibolla, T. Van Zyl, and S. Coetzee"  
-journal="Journal of Geovisualization and Spatial Analysis, vol. 5, no. 1, pp. 1--18, Jan-Dec. 2021" 
+journal="Journal of Geovisualization and Spatial Analysis, vol. 5, pp. 1--18, Jan-Dec. 2021" 
  >}} 
 
 > {{< paper 
@@ -30,13 +72,7 @@ journal="IEEE Journal of Selected Topics in Applied Earth Observations and Remot
  >}} 
 
 > {{< paper 
-title="Surrogate Assisted Strategies (The Parameterisation of an Infectious Disease Agent-Based Model)"  
-authors="R. Perumal and T.L. van Zyl"  
-journal="arXiv preprint arXiv:2108.08809, Jan-Dec. 2021" 
- >}} 
-
-> {{< paper 
-title="Comparing Class-Aware and Pairwise Loss Functions for Deep Metric Learning in Wildlife Re-Identification"  
+title="Comparing class-aware and pairwise loss functions for deep metric learning in wildlife re-identification"  
 authors="N. Dlamini and T.L. van Zyl"  
 journal="Sensors, vol. 21, no. 18, pp. 6109, Jan-Dec. 2021" 
  >}} 
@@ -75,22 +111,6 @@ authors="B.H. Sibolla, S. Coetzee, and T.L. Van Zyl"
 journal="ISPRS International Journal of Geo-Information, vol. 7, no. 12, pp. 475, Jan-Dec. 2018" 
  >}} 
 
-#### 2016
-
-> {{< paper 
-title="Towards the development of a taxonomy for visualisation of streamed geospatial data"  
-authors="B. Sibolla, T. Van Zyl, and S. Coetzee"  
-journal="ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. 3, pp. 129, Jan-Dec. 2016" 
- >}} 
-
-#### 2014
-
-> {{< paper 
-title="Algorithmic Design Considerations for Geospatial and/or Temporal Big Data"  
-authors="T. van Zyl"  
-journal="Big Data: Techniques and Technologies in Geoinformatics, pp. 117, Jan-Dec. 2014" 
- >}} 
-
 #### 2013
 
 > {{< paper 
@@ -103,8 +123,8 @@ journal="CSIR: Pretoria, South Africa, pp. 1--38, Jan-Dec. 2013"
 
 > {{< paper 
 title="FOSS geospatial libraries in scientific workflow environments: experiences and directions"  
-authors="G. McFerren, T. Van Zyl, and A. Vahed"  
-journal="Applied Geomatics, vol. 4, no. 2, pp. 85--93, Jan-Dec. 2012" 
+authors="G. McFerren, T. van Zyl, and A. Vahed"  
+journal="Applied Geomatics, vol. 4, pp. 85--93, Jan-Dec. 2012" 
  >}} 
 
 > {{< paper 
@@ -152,12 +172,6 @@ journal="International Journal of Digital Earth, vol. 2, no. 1, pp. 16--30, Jan-
 #### 2008
 
 > {{< paper 
-title="Sensor web technology underpins GEOSS objectives: Applications"  
-authors="T. Van Zyl"  
-journal="CSIR Science Scope, vol. 3, no. 2, pp. 42--43, Jan-Dec. 2008" 
- >}} 
-
-> {{< paper 
 title="Enabling a new era of Earth observation research: scientific workflows for the Sensor Web'"  
 authors="D. Moodley, A. Vahed, I. Simonis, G. McFerren, and T. van Zyl"  
 journal="Ecological Circuits, vol. 1, pp. 20--23, Jan-Dec. 2008" 
@@ -166,6 +180,62 @@ journal="Ecological Circuits, vol. 1, pp. 20--23, Jan-Dec. 2008"
 
 Conference Publications and Posters
 ---
+
+#### 2022
+
+> {{< paper 
+title="Full Rotation Hyper-ellipsoid Multivariate Adaptive Bandwidth Kernel Density Estimator"  
+authors="T.L. van Zyl"  
+journal="287--303, Second Southern African Conference on Artificial Intelligence Research, Springer, Cham, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Fusion of Sentiment and Asset Price Predictions for Portfolio Optimization"  
+authors="M. Muthivhi and T.L. van Zyl"  
+journal="1--8, 2022 25th International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Using Machine Learning to Fuse Verbal Autopsy Narratives and Binary Features in the Analysis of Deaths from Hyperglycaemia"  
+authors="T. Manaka, T. Van Zyl, A.N. Wade, and D. Kar"  
+journal="90--106, Proceedings of SACAIR2021, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Twin-Delayed Deep Deterministic Policy Gradient Algorithm for Portfolio Selection"  
+authors="N. Baard and T.L. van Zyl"  
+journal="1--8, 2022 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), IEEE, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="An Empirical Comparison of Cross-Validation Procedures for Portfolio Selection"  
+authors="A. Paskaramoorthy, T.L. van Zyl, and T. Gebbie"  
+journal="1--10, 2022 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), IEEE, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Application of Convolutional Neural Networks to the Quantification of Tick Burdens on Cattle Using Infrared Thermographic Imaging"  
+authors="F. Mudau, T.L. Van Zyl, A.H. Molotsi, P. Waldmann, K. Dzama, and M.C. Marufu"  
+journal="1--9, 2022 IST-Africa Conference (IST-Africa), IEEE, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Multi-modal Recommendation System with Auxiliary Information"  
+authors="M. Muthivhi, T. van Zyl, and H. Wang"  
+journal="108--122, Artificial Intelligence Research: Third Southern African Conference, SACAIR 2022, Stellenbosch, South Africa, December 5--9, 2022, Proceedings, Springer Nature Switzerland Cham, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Improving Cause-of-Death Classification from Verbal Autopsy Reports"  
+authors="T. Manaka, T. van Zyl, and D. Kar"  
+journal="46--59, Artificial Intelligence Research: Third Southern African Conference, SACAIR 2022, Stellenbosch, South Africa, December 5--9, 2022, Proceedings, Springer Nature Switzerland Cham, Jan-Dec. 2022"  
+>}} 
+
+> {{< paper 
+title="Towards a methodology for addressing missingness in datasets, with an application to demographic health datasets"  
+authors="G. Khangamwa, T. van Zyl, and C.J. van Alten"  
+journal="169--186, Artificial Intelligence Research: Third Southern African Conference, SACAIR 2022, Stellenbosch, South Africa, December 5--9, 2022, Proceedings, Springer Nature Switzerland Cham, Jan-Dec. 2022"  
+>}} 
 
 #### 2021
 
@@ -176,19 +246,13 @@ journal="1--6, 2021 Southern African Universities Power Engineering Conference/R
 >}} 
 
 > {{< paper 
-title="The efficient frontiers of mean-variance portfolio rules under distribution misspecification"  
-authors="A. Paskaramoorthy, T. Gebbie, and T. van Zyl"  
-journal="arXiv preprint arXiv:2106.10491, Jan-Dec. 2021"  
+title="Parden: Surrogate assisted hyper-parameter optimisation for portfolio selection"  
+authors="T.L. van Zyl, M. Woolway, and A. Paskaramoorthy"  
+journal="101--107, 2021 8th international conference on soft computing & machine intelligence (ISCMI), IEEE, Jan-Dec. 2021"  
 >}} 
 
 > {{< paper 
-title="ParDen: Surrogate Assisted Hyper-Parameter Optimisation for Portfolio Selection"  
-authors="T. van Zyl, M. Woolway, and A. Paskaramoorthy"  
-journal="101--107, 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2021"  
->}} 
-
-> {{< paper 
-title="Feature-weighted Stacking for Nonseasonal Time Series Forecasts: A Case Study of the COVID-19 Epidemic Curves"  
+title="Feature-weighted stacking for nonseasonal time series forecasts: A case study of the COVID-19 epidemic curves"  
 authors="P. Cawood and T.L. van Zyl"  
 journal="53--59, 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2021"  
 >}} 
@@ -212,7 +276,7 @@ journal="1--7, 2021 IEEE 24th International Conference on Information Fusion (FU
 >}} 
 
 > {{< paper 
-title="Deep Learning for Financial Time Series Forecast Fusion and Optimal Portfolio Rebalancing"  
+title="Deep learning for financial time series forecast fusion and optimal portfolio rebalancing"  
 authors="S. Laher, A. Paskaramoorthy, and T.L. Van Zyl"  
 journal="1--8, 2021 IEEE 24th International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2021"  
 >}} 
@@ -224,15 +288,21 @@ journal="114--119, 2021 8th International Conference on Soft Computing & Machine
 >}} 
 
 > {{< paper 
-title="MA-FDRNN: Multi-Asset Fuzzy Deep Recurrent Neural Network Reinforcement Learning for Portfolio Management"  
+title="MA-FDRNN: Multi-asset fuzzy deep recurrent neural network reinforcement learning for portfolio management"  
 authors="T. Skeepers, T.L. van Zyl, and A. Paskaramoorthy"  
 journal="32--37, 2021 8th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2021"  
+>}} 
+
+> {{< paper 
+title="The efficient frontiers of mean-variance portfolio rules under distribution misspecification"  
+authors="A. Paskaramoorthy, T. Gebbie, and T.L. Van Zyl"  
+journal="1--8, 2021 IEEE 24th International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2021"  
 >}} 
 
 #### 2020
 
 > {{< paper 
-title="Inter-and Intra-domain Knowledge Transfer for Related Tasks in Deep Character Recognition"  
+title="Inter-and intra-domain knowledge transfer for related tasks in deep character recognition"  
 authors="N. Kooverjee, S. James, and T. Van Zyl"  
 journal="1--6, 2020 International SAUPEC/RobMech/PRASA Conference, IEEE, Jan-Dec. 2020"  
 >}} 
@@ -250,7 +320,7 @@ journal="1--6, 2020 International SAUPEC/RobMech/PRASA Conference, IEEE, Jan-Dec
 >}} 
 
 > {{< paper 
-title="Comparison of Recurrent Neural Network Architectures for Wildfire Spread Modelling"  
+title="Comparison of recurrent neural network architectures for wildfire spread modelling"  
 authors="R. Perumal and T.L. van Zyl"  
 journal="1--6, 2020 International SAUPEC/RobMech/PRASA Conference, IEEE, Jan-Dec. 2020"  
 >}} 
@@ -268,38 +338,38 @@ journal="2020 7th International Conference on Soft Computing & Machine Intellige
 >}} 
 
 > {{< paper 
-title="A Scalable Heterogeneous Big Data Framework for e-Learning Systems"  
+title="A scalable heterogeneous big data framework for e-learning systems"  
 authors="D. Otoo-Arthur and T.L. van Zyl"  
-journal="1--15, 2020 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD), IEEE, Jan-Dec. 2020"  
+journal="1--15, 2020 international conference on artificial intelligence, big data, computing and data communication systems (icABCD), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="A rules-based and transfer learning approach for deriving the hubble type of a galaxy from the galaxy zoo data"  
-authors="M. Variawa, T.L. van Zyl, and M. Woolway"  
+title="A rules-based and transfer learning approach for deriving the Hubble type of a galaxy from the galaxy zoo data"  
+authors="M.Z. Variawa, T.L. van Zyl, and M. Woolway"  
 journal="1--7, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Unique Animal Identification using Deep Transfer Learning For Data Fusion in Siamese Networks"  
+title="Unique animal identification using deep transfer learning for data fusion in siamese networks"  
 authors="T.L. Van Zyl, M. Woolway, and B. Engelbrecht"  
 journal="1--6, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Predicting Particle Fineness in a Cement Mill"  
+title="Predicting particle fineness in a cement mill"  
 authors="R. Lange, T. Lange, and T.L. van Zyl"  
 journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="A Method for Dissolved Gas Forecasting in Power Transformers Using LS-SVM"  
+title="A method for dissolved gas forecasting in power transformers using ls-svm"  
 authors="J. Atherfold and T.L. Van Zyl"  
 journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
 title="Data-driven evolutionary optimisation for the design parameters of a chemical process: A case study"  
-authors="L. Stander, M. Woolway, and T. van Zyl"  
+authors="L. Stander, M. Woolway, and T.L. van Zyl"  
 journal="1--8, 2020 IEEE 23rd International Conference on Information Fusion (FUSION), IEEE, Jan-Dec. 2020"  
 >}} 
 
@@ -316,31 +386,31 @@ journal="183--196, Southern African Conference for Artificial Intelligence Resea
 >}} 
 
 > {{< paper 
-title="Comparing Generalisation Using Crowd-Sourced vs Expert Labels for Galaxies Classification"  
+title="Comparing generalisation using crowd-sourced vs expert labels for galaxies classification"  
 authors="M. Variawa, T. van Zyl, and M. Woolway"  
 journal="158--162, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Makespan Minimisation for Multipurpose Batch Plants Using Metaheuristic Approaches"  
+title="Makespan minimisation for multipurpose batch plants using metaheuristic approaches"  
 authors="T. van Zyl and M. Woolway"  
-journal="56--60, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+journal="56--60, 2020 7th international conference on soft computing & machine intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Automated Identification of Individuals in Wildlife Population Using Siamese Neural Networks"  
+title="Automated identification of individuals in wildlife population using siamese neural networks"  
 authors="N. Dlamini and T.L. van Zyl"  
-journal="224--228, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
+journal="224--228, 2020 7th international conference on soft computing & machine intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Comparative Analysis of Catastrophic Forgetting in Metric Learning"  
+title="Comparative analysis of catastrophic forgetting in metric learning"  
 authors="J. Huo and T.L. van Zyl"  
 journal="68--72, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="Extended Surrogate Assisted Continuous Process Optimisation"  
+title="Extended surrogate assisted continuous process optimisation"  
 authors="L. Stander, M. Woolway, and T. van Zyl"  
 journal="275--279, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
@@ -352,13 +422,13 @@ journal="288, SACAIR 2020, Jan-Dec. 2020"
 >}} 
 
 > {{< paper 
-title="Prediction Interval Construction for Multivariate Point Forecasts Using Deep Learning"  
+title="Prediction interval construction for multivariate point forecasts using deep learning"  
 authors="T. Mathonsi and T.L. van Zyl"  
 journal="88--95, 2020 7th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2020"  
 >}} 
 
 > {{< paper 
-title="A Comparative Study of Ensemble Approaches to Fact-Checking for the FEVER Shared Task"  
+title="A comparative study of ensemble approaches to fact-checking for the fever shared task"  
 authors="O.O. Oni and T.L. van Zyl"  
 journal="1--8, 2020 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), IEEE, Jan-Dec. 2020"  
 >}} 
@@ -368,7 +438,7 @@ journal="1--8, 2020 IEEE Asia-Pacific Conference on Computer Science and Data En
 > {{< paper 
 title="Comparative metaheuristic performance for the scheduling of multipurpose batch plants"  
 authors="Z. Bowditch, M. Woolway, and T. van Zyl"  
-journal="121--125, 2019 6th International Conference on Soft Computing & Machine Intelligence (ISCMI), IEEE, Jan-Dec. 2019"  
+journal="121--125, 2019 6th international conference on soft computing & machine intelligence (ISCMI), IEEE, Jan-Dec. 2019"  
 >}} 
 
 > {{< paper 
@@ -378,18 +448,24 @@ journal="144--149, 2019 6th International Conference on Soft Computing & Machine
 >}} 
 
 > {{< paper 
-title="Author Identification from Handwritten Characters using Siamese CNN"  
+title="Author identification from handwritten characters using Siamese CNN"  
 authors="N. Dlamini and T.L. van Zyl"  
 journal="1--6, 2019 International Multidisciplinary Information Technology and Engineering Conference (IMITEC), IEEE, Jan-Dec. 2019"  
 >}} 
 
 > {{< paper 
-title="A systematic review on big data analytics frameworks for higher education-tools and algorithms"  
+title="A systematic review on big data analytics frameworks for higher education-Tools and algorithms"  
 authors="D. Otoo-Arthur and T. Van Zyl"  
 journal="1--9, Proceedings of the 2019 2nd International Conference on E-Business, Information Management and Computer Science, Jan-Dec. 2019"  
 >}} 
 
 #### 2016
+
+> {{< paper 
+title="Towards The Development Of A Taxonomy For Visualisation Of Streamed Geospatial Data"  
+authors="B. Sibolla, T. Van Zyl, and S. Coetzee"  
+journal="ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, Jan-Dec. 2016"  
+>}} 
 
 > {{< paper 
 title="Geospatial data stream processing in Python using FOSS4G components"  
