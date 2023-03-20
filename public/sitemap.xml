@@ -51,5 +51,9 @@
     <priority>0</priority>
   </url><url>
     <loc>https://tvanzyl.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://tvanzyl.github.io/tags/resources/</loc>
+  </url><url>
+    <loc>https://tvanzyl.github.io/resources/</loc>
   </url>
 </urlset>
