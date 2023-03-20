@@ -67,6 +67,11 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:tvanzyl@uj.ac.za"
 
+[[params.socialIcons]]
+icon = "fas fa-calendar"
+title = "calendly"
+url = "https://calendly.com/tvanzyl/20min"
+
 ## Menu items
 
 [menu]
