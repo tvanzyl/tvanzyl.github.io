@@ -5,7 +5,9 @@ aliases = ["about-us", "about-tvz", "cv"]
 author = "Terence van Zyl"
 +++
 
-Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive Systems. Working as a Professor in Machine Learning at the [University of Johannesburg](https://www.uj.ac.za/). Currently, hold the [Nedbank](https://www.nedbank.co.za/) research and innovation chair.
+Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive Systems. Working as a Professor in Machine Learning at the [University of Johannesburg](https://www.uj.ac.za/). Currently, hold the [Nedbank](https://www.nedbank.co.za/) research and innovation chair. 
+
+[```Download My CV Here```](Curriculum_Vitae_for_Terence_van_Zyl.pdf)
 
 --- 
 
