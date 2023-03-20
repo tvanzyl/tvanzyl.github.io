@@ -31,7 +31,7 @@ customCss = []
 customJs = []
 mainSections = ["projects"]
 images = ["images/site-feature-image.png"]
-#displayMode = "dark"
+displayMode = "dark"
 # Google Site Verification
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
@@ -94,12 +94,16 @@ url = "mailto:tvanzyl@uj.ac.za"
   weight = 400
   identifier = "research"
   url = "/research/"
-  
+
   [[menu.main]]
   name = "Projects"
   weight = 500
   identifier = "projects"
   url = "/projects/"
   
-  
+  [[menu.main]]
+  name = "Resources"
+  weight = 500
+  identifier = "resources"
+  url = "/resources/"
   
