@@ -9,6 +9,23 @@ Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive 
 
 [```Download My CV Here```](Curriculum_Vitae_for_Terence_van_Zyl.pdf)
 
+<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "a1dec190a93b4e8ab22111929be6a137", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{ location:
+        { url: "https://documentservices.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
+      metaData:{fileName: "Curriculum_Vitae_for_Terence_van_Zyl.pdf"}
+    },
+    {
+      embedMode: "SIZED_CONTAINER"
+    });
+  });
+</script>
+
+
 --- 
 
 ### Education
