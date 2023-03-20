@@ -17,7 +17,7 @@ Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive 
     adobeDCView.previewFile({
       content:{ location:
         { url: "https://documentservices.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
-      metaData:{fileName: "Curriculum_Vitae_for_Terence_van_Zyl.pdf"}
+      metaData:{fileName: "https://tvanzyl.github.io/about/Curriculum_Vitae_for_Terence_van_Zyl.pdf"}
     },
     {
       embedMode: "SIZED_CONTAINER"
