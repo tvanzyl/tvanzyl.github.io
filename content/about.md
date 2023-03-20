@@ -25,7 +25,6 @@ Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive 
   });
 </script> -->
 
-
 --- 
 
 ### Education
