@@ -9,7 +9,7 @@ Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive 
 
 [```Download My CV Here```](Curriculum_Vitae_for_Terence_van_Zyl.pdf)
 
-<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
+<!-- <div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
   document.addEventListener("adobe_dc_view_sdk.ready", function(){
@@ -23,7 +23,7 @@ Studied as a Computer Scientist in Artificial Intelligence and Complex Adaptive 
       embedMode: "SIZED_CONTAINER"
     });
   });
-</script>
+</script> -->
 
 
 --- 
