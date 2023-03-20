@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Website of Terence van Zyl</title>
+    <link>https://tvanzyl.github.io/tags/news/</link>
+    <description>Recent content in news on Website of Terence van Zyl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://tvanzyl.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://tvanzyl.github.io/projects/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tvanzyl.github.io/projects/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
