@@ -16,9 +16,9 @@ We recently joined forces with [Smart Savanahs](https://smartsavannahs.org/en/) 
 
 ### Purpose
 
-> Traditional methods of tracking and identifying wildlife, especially over large areas, are costly and labor-intensive. Drones equipped with high-resolution cameras offer a more efficient and scalable solution for targeted tracking and re-identification of specific species.
-> 
-> Drones can be deployed to capture detailed aerial imagery of specific areas of interest. Since individual animals can be relatively small compared to the overall landscape, advanced machine learning (ML) algorithms are used to analyze these images. These algorithms can be trained to detect specific wildlife species, such as elephants, rhinos, or giraffes, with a focus on individual identification based on unique markings or other characteristics. While ML might not perfectly identify every animal, it can assist in pinpointing individuals for further tracking and re-identification across different sightings.
+> Identifying and tracking individuals in vast nature reserves is crucial for supporting wildlife biodiversity and welfare and addressing conflicts at the human-wildlife nexus, such as poaching. Drones with high-resolution cameras offer an efficient and scalable solution for providing observations of large, inaccessible and rugged terrain.
+>
+> Conservationists can deploy drones to capture detailed video footage, enabling targeted tracking and re-identification of specific individuals – animals, humans, or vehicles. Since individuals are often camouflaged, researchers can use advanced machine-learning models to detect specific wildlife species or even focus on identifying individual animals or humans based on unique markings or other characteristics. Machine learning can significantly aid in helping conservationists develop strategies to minimize human-wildlife conflict and directly support SDGs like Goal 15 (Life on Land). 
 
 ### How it works
 
