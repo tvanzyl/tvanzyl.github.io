@@ -1,4 +1,4 @@
-Biblimetrics
+Bibliometrics
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=9DLVr5oAAAAJ&hl=en)
