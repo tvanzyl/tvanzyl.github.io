@@ -1,15 +1,16 @@
 ---
 author: Terence L van Zyl
-title: Catastrophic Forgetting in Similarity Learning
+title: Representation Learning
 date: 2021-03-08
-description: Catastrophic Forgetting in Similarity Learning
+description: Representation Learning
 math: true
 ---
 
-### Representation Learning
+The recent paper by Variawa and van Zyl *inter al.* (2022) [[ref]](https://ieeexplore.ieee.org/abstract/document/9709840) looks at transfer learning and deep metric learning for galaxy morphology classification. 
 
-The recent paper by Variawa and van Zyl *inter al.* (2022) [[ref]](https://ieeexplore.ieee.org/abstract/document/9709840) looks at transfer learning and deep metric learning for galaxy morphology classification. The most exciting result from this paper is that metric learning outperformed traditional classification on the minority classes. Prevalence of minority classes seems to be a characteristic of crowdsourced data, a red flag raised in this study and requiring consideration in similar projects. 
 <!--more-->
+
+The most exciting result from this paper is that metric learning outperformed traditional classification on the minority classes. Prevalence of minority classes seems to be a characteristic of crowdsourced data, a red flag raised in this study and requiring consideration in similar projects. 
 
 The performance of learning algorithms massively depends on the representations they receive as input. Representation learning tries to train machine learning algorithms to learn useful representations, such as those that are interpretable, capture invariance, incorporate latent features, or can be used for transfer learning. From this perspective, deep neural networks are representation learning models. At a high-level, a typical supervised neural network has two components, (1) an encoder and (2) a linear classifier.
 
