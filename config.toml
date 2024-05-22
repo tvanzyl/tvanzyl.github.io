@@ -20,7 +20,7 @@ unsafe = true
 title = "Terence >' Zyl"
 author = "Terence L. van Zyl"
 description = """
-Prof. Terence L. van Zyl
+Terence L. van Zyl
 @ Unversity of Johannesburg
 Institute for Intelligent Systems
 """
@@ -29,7 +29,7 @@ keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = ["projects"]
+mainSections = ["projects","blog"]
 images = ["images/site-feature-image.png"]
 displayMode = "dark"
 # Google Site Verification
@@ -107,8 +107,14 @@ url = "https://calendar.app.google/v6fDTJyD5QwrizTJ8"
   url = "/projects/"
   
   [[menu.main]]
+  name = "Blog"
+  weight = 600
+  identifier = "blog"
+  url = "/blog/"
+ 
+  [[menu.main]]
   name = "Resources"
-  weight = 500
+  weight = 700
   identifier = "resources"
   url = "/resources/"
   
