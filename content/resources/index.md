@@ -4,7 +4,7 @@ author = "Terence L van Zyl"
 tags = ["resources"]
 +++
 
-# Writing Resources
+### Writing Resources
 
 1. [How to clock a research study and article in one go (PDF)](How%20to%20clock%20a%20research%20study%20and%20article%20in%20one%20go.pdf)
 2. [Proposal and dissertation template (LaTex ZIP)](Proposal_Thesis_2.3.zip)
@@ -13,9 +13,9 @@ tags = ["resources"]
 5. [Writing Cheat Sheet (PDF)](Writing%20Cheat%20Sheet.pdf)
 6. [Research Projects (PDF)](research_projects.pdf)
 
-# Some Course Slides
+### Some Course Slides
 
-## Deep Learning
+#### Deep Learning
 
 1. [Introduction](https://docs.google.com/presentation/d/1emtBBmfO0gHJl_lqQ1uvsHbxwA7T4AuWNLfmbJAyY9I/pub?start=false&loop=false&delayms=3000)
 2. [Ensembles, Boosting and Bagging](https://docs.google.com/presentation/d/1-ffbZnKOJ39RG2TyqvXiBysxXulbMqV6G2RctcviFO0/pub?start=false&loop=false&delayms=3000)
