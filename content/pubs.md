@@ -15,4 +15,3 @@ Here are my bibliometrics as of the 07-August-2024, for more up to date values s
 - **h-index:** 14 (Scholar) / 10 (Scopus) 
 - **Citations:** 899 (Scholar) / 463 (Scopus) 
 - **i10-index:** 31 (Scholar)
-
