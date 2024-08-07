@@ -29,7 +29,7 @@ keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = ["projects","blog"]
+mainSections = ["projects"]
 images = ["images/site-feature-image.png"]
 displayMode = "dark"
 # Google Site Verification
