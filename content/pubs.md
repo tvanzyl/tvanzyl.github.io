@@ -5,7 +5,7 @@ aliases = ["publications", "bibliometrics"]
 author = "Terence van Zyl"
 +++
 
-Here are my bibliometrics as of the 20-Sep-2024, for more up to date values see my 
+Here are my bibliometrics as of the 30-Sep-2024, for more up to date values see my 
 [Google Scholar](https://scholar.google.com/citations?user=9DLVr5oAAAAJ&hl=en) profile.
 
 ---
