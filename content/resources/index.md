@@ -12,6 +12,7 @@ tags = ["resources"]
 4. [Letter of Intent (PDF)](letter_of_intent.pdf)
 5. [Writing Cheat Sheet (PDF)](Writing%20Cheat%20Sheet.pdf)
 6. [Research Projects (PDF)](research_projects.pdf)
+7. [Writing Maths (PDF)](https://www2.math.uconn.edu/~khlee/math2784s10/writingtips.pdf)
 
 ### Some Course Slides
 
