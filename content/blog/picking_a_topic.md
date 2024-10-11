@@ -10,6 +10,23 @@ Selecting a research topic is a daunting task. Here are some things to help you 
 
 <!--more-->
 
+## Picking a Research Topic
+
+The first challenge of beginning your research study is that you need to find a topic you are interested in. Then you need to find a niche within that topic that still contains an open research problem. 
+
+### Data Science
+
+However, one line of thinking can always guide you when you pick a topic in data science. The first set of questions has to be:
+1. Have you got the data, or can you get it?
+2. If the data is publicly available. Has this already been done?
+3. If it has already been done. What is my contribution?
+
+### Machine Learning
+
+In machine learning, the datasets for specific machine learning problems, the metrics for how comparisons between algorithms are done and the methodology for comparisons are generally well understood. Here, picking a topic should be more aligned with the area of machine learning you would like to contribute to.
+
+## Research Problem
+
 Remember that even though a master's unlike a PhD, need not be novel. It should still contribute to the field. Here is a quick discussion of the difference between the two.
 
 ### Novelty
@@ -33,10 +50,5 @@ A Master's dissertation focuses more on demonstrating a solid grasp of your fiel
 
 > Example: Applying a known machine learning model to predict customer churn in a specific industry, analysing the results and identifying key factors contributing to churn.
 
-## Picking a Masters Research Topic
 
-When you think of any topic in data science. The first question has to be:
-1. Have you got the data, or can you get it?
-2. If the data is publicly available. Has this already been done?
-3. If it has already been done. What is my contribution?
 
