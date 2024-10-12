@@ -14,7 +14,7 @@ The first challenge of beginning your research study is that you need to find a 
 
 ### Data Science
 
-However, one line of thinking can always guide you when you pick a topic in data science. The first set of questions has to be:
+One line of thinking can always guide you when you pick a topic in data science. The first set of questions has to be:
 1. Have you got the data, or can you get it?
 2. If the data is publicly available. Has this already been done?
 3. If it has already been done. What is my contribution?
