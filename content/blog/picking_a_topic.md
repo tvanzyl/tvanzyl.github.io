@@ -10,8 +10,6 @@ Selecting a research topic is a daunting task. Here are some things to help you 
 
 <!--more-->
 
-## Picking a Research Topic
-
 The first challenge of beginning your research study is that you need to find a topic you are interested in. Then you need to find a niche within that topic that still contains an open research problem. 
 
 ### Data Science
