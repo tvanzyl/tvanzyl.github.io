@@ -60,7 +60,7 @@ url = "http://orcid.org/0000-0003-4281-630X"
 [[params.socialIcons]]
 icon = "fab fa-dblp"
 title = "DBLP"
-https://dblp.org/pid/31/128
+url = "https://dblp.org/pid/31/128"
 
 [[params.socialIcons]]
 icon = "fab fa-google"
