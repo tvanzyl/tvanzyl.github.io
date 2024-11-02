@@ -118,3 +118,9 @@ url = "https://calendar.app.google/v6fDTJyD5QwrizTJ8"
   identifier = "resources"
   url = "/resources/"
   
+[[menu.main]]
+  name = "Teaching"
+  weight = 800
+  identifier = "teaching"
+  url = "/teaching/"
+  
