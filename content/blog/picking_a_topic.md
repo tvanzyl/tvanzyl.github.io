@@ -38,9 +38,9 @@ This conversation brings us to a discussion about novelty and contribution. Reme
 True novelty, for example, developing a groundbreaking new algorithm or theoretical framework, is challenging, even at the PhD level. Many seemingly novel ideas have already been explored in some form. The transition from a Master's, where contribution is key, to a PhD, where novelty is often expected, can be a significant leap. Having already completed a Master's, you understand the depth of existing research and how difficult it can be to make groundbreaking discoveries.
 
 This challenge highlights the importance of: 
-- Thorough literature review, 
-- Creative thinking and 
-- Collaboration Mentorship.
+- thorough literature review, 
+- creative thinking and 
+- collaboration Mentorship.
 
 > Example: Developing a new type of neural network architecture that significantly outperforms existing models on a specific task.
 
@@ -48,7 +48,7 @@ This challenge highlights the importance of:
 
 A Master's dissertation focuses more on demonstrating a solid grasp of your field and your ability to conduct rigorous research. The emphasis is on showing that you can effectively utilise existing knowledge and tools to generate meaningful results and contribute to the ongoing discourse in your study area. A contribution is often achieved by advancing the field in some way, such as through:
 - Applying existing methods to a new dataset or problem domain. This application expands the understanding of how these methods perform in different contexts.
-- Improving existing methods. This improvement could involve refining an algorithm, optimising parameters, or combining techniques in a novel way to achieve better results.
+- Improving existing methods. This improvement could involve refining an algorithm, optimising parameters, or combining techniques to achieve better results.
 - Conducting a thorough analysis and evaluation. This analysis could involve comparing different methods, identifying their strengths and weaknesses, or exploring the impact of different factors on performance.
 - Generating new insights from data. The findings can be valuable even if the methods used are not novel.
 
