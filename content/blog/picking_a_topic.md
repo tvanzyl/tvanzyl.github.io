@@ -21,7 +21,7 @@ One line of thinking can always guide you when you pick a topic in data science.
 2. If the data is publicly available. Has this already been done?
 3. If it has already been done. What is my contribution or novelty?
 
-We will get top contribution vs novelty shortly.
+We will get to contribution vs novelty shortly.
 
 ### Machine Learning
 
