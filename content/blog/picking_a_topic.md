@@ -10,16 +10,16 @@ Selecting a research topic is a daunting task. Here are some things to help you 
 
 <!--more-->
 
-The first challenge to beginning your research study is finding a topic you are interested in. Then, you must find a niche within that topic that still contains an open research problem. Here, I consider the issue for the Master's and the PhD.
+The first challenge to beginning your research study is finding a topic you are interested in. Then, you must find a niche within that topic that still contains an open research problem. Here, I consider the situation for the Master's and the PhD.
 
-When considering a Master's or PhD, your first consideration is. Will it be a data science problem or a machine learning problem? Here, I consider data science to be the application of machine learning within a business domain.
+When considering a Master's or PhD, your first consideration will be to do a data science problem or a machine learning problem? I think of data science as applying machine learning within a specific domain.
 
 ### Data Science
 
-One line of thinking can always guide you when you pick a topic in data science. Your first questions have to be:
+One line of consideration can guide you when picking a topic in data science. Your order of interrogation has to be:
 1. Have you got the data, or can you get it?
 2. If the data is publicly available. Has this already been done?
-3. If it has already been done. What is my contribution or novelty?
+3. If someone has already done it. What is my contribution or novelty?
 
 We will get to contribution vs novelty shortly.
 
@@ -35,7 +35,7 @@ This conversation brings us to a discussion about novelty and contribution. Reme
 
 ### Novelty (PhD)
 
-True novelty, for example, developing a groundbreaking new algorithm or theoretical framework, is challenging, even at the PhD level. Many seemingly novel ideas have already been explored in some form. The transition from a Master's, where contribution is key, to a PhD, where novelty is often expected, can be a significant leap. Having already completed a Master's, you understand the depth of existing research and how difficult it can be to make groundbreaking discoveries.
+True novelty, the quality of being new, original, or unusual, is rare, even at the PhD level. For example, developing a groundbreaking new algorithm or theoretical framework is challenging and often builds on existing ideas. Worse yet, many seemingly novel ideas have already been explored in some form. The transition from a Master's, where contribution is key, to a PhD, where novelty is often expected, is a significant leap. Having completed a Master's, you understand the depth of existing research and how difficult it can be to make contributions, let alone new groundbreaking discoveries.
 
 This challenge highlights the importance of: 
 - thorough literature review, 
@@ -46,10 +46,10 @@ This challenge highlights the importance of:
 
 ### Contribution (MSc)
 
-A Master's dissertation focuses more on demonstrating a solid grasp of your field and your ability to conduct rigorous research. The emphasis is on showing that you can effectively utilise existing knowledge and tools to generate meaningful results and contribute to the ongoing discourse in your study area. A contribution is often achieved by advancing the field in some way, such as through:
+Contribution is the part played in helping something to advance. A Master's dissertation focuses more on demonstrating a solid grasp of your field and your ability to conduct rigorous research. The emphasis is on showing that you can effectively utilise existing knowledge and tools to generate meaningful results. However, the dissertation should also contribute to the ongoing discourse in your study area. A contribution is often achieved by advancing the field in some way, such as through:
 - Applying existing methods to a new dataset or problem domain. This application expands the understanding of how these methods perform in different contexts.
 - Improving existing methods. This improvement could involve refining an algorithm, optimising parameters, or combining techniques to achieve better results.
-- Conducting a thorough analysis and evaluation. This analysis could involve comparing different methods, identifying their strengths and weaknesses, or exploring the impact of different factors on performance.
+- Conducting a thorough analysis and evaluation. This analysis could include comparing different methods, identifying their strengths and weaknesses, or exploring the impact of different factors on performance.
 - Generating new insights from data. The findings can be valuable even if the methods used are not novel.
 
 > Example: Applying a known machine learning model to predict customer churn in a specific industry, analysing the results and identifying key factors contributing to churn.
