@@ -22,3 +22,12 @@ tags = ["teaching"]
 12. [Unsupervised Learning](https://docs.google.com/presentation/d/1xlt1wj6Z-vKCGzSnv-On-gl9ZZGlcIK4Lqda2CkA5Vw/pub?start=false&loop=false&delayms=3000)
 13. [Generative Learning and Density Estimation](https://docs.google.com/presentation/d/1FIKVfsfjZaF1L18iRnh6BTCp2Od2Kd0S70LrBvcWTTE/pub?start=false&loop=false&delayms=3000)
 
+#### Artificial Intelligence Strategy
+
+1. [The Data Driven Enterprise](https://docs.google.com/presentation/d/e/2PACX-1vRYI0rAfDY6HGjqh_GPrvZl-doYnx__s9z7LmI1izi0BYuWrZe9xbTZwQtoi42TDYJGAidzpfilD7qw/pub?start=false&loop=false&delayms=3000)
+2. [AI Strategy and Organisational Maturity](https://docs.google.com/presentation/d/e/2PACX-1vR4uv0EwbP6A8lRCj2dFe3PDVPIAY2KDlGQMBOqkX2Qd4o5gYma6E5bK-q0wJ1V-7VKrMxmd5XXfEEF/pub?start=false&loop=false&delayms=3000)
+3. [Agile AI Strategy Formulation](https://docs.google.com/presentation/d/e/2PACX-1vRgjEtPr_APY-s_qrPE2QY0MLLVGUhZDal1wYH5q3cu7zl68lz1QG-f69TB0KMTJzKmz-Pp9pIL0VfD/pub?start=false&loop=false&delayms=3000)
+4. [Data Driven (ML) Decision Making](https://docs.google.com/presentation/d/e/2PACX-1vSTHkrQdGfimgJq-RS1Y1ibsTKAzNgo58MoEk1j78pewaNobt1Gc_tj8hT7mX1ofKGOegmHBBhVHcvI/pub?start=false&loop=false&delayms=3000)
+5. [ML Development Life Cycle](https://docs.google.com/presentation/d/e/2PACX-1vR2ylRZWFcaVJhnJmjYKZ35CUCQrh_xngQUGE-X5x47wnkukQPAWcDlu8rhUuTxbPP9PuSjjv90ild9/pub?start=false&loop=false&delayms=3000)
+6. [The Data Science Team](https://docs.google.com/presentation/d/e/2PACX-1vReqdw41tcUiZJQYa8J3iUaiLjkliJiTRabOXjiPYsAvu5twn_i3IX30W-nsskJnv7b4hNjI_L6t0wm/pub?start=false&loop=false&delayms=3000)
+7. [ML: Predictive Analysis for Business Decisions](https://docs.google.com/presentation/d/e/2PACX-1vSF9_wV22raRPlTUkdwAEPr_f6tuFI34E8sWBbrMLZNYji4OafieoM2iyr_q_lnzrsdoYzIO64aA2v0/pub?start=false&loop=false&delayms=3000)
