@@ -10,7 +10,7 @@ Here are my bibliometrics as of the 07-Jun-2025, for up to date values see my
 
 ---
 
-#### 27 Journal Articles – 2 Book Chapters – 70 in Proceedings
+#### 29 Journal Articles – 2 Book Chapters – 74 in Proceedings
 
 - **h-index:** 17 (Scholar) / 13 (Scopus) 
 - **Citations:** 1098 (Scholar) / 630 (Scopus) 
