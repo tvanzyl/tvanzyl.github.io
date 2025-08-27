@@ -13,4 +13,5 @@ tags = ["resources"]
 5. [Writing Cheat Sheet (PDF)](Writing%20Cheat%20Sheet.pdf)
 6. [Research Projects (PDF)](research_projects.pdf)
 7. [Writing Maths (PDF)](https://www2.math.uconn.edu/~khlee/math2784s10/writingtips.pdf)
+8. [Example Reseach Paper (PDF)](https://arxiv.org/pdf/2508.01966?)
 
