@@ -1,6 +1,6 @@
 +++
 description = "TvZ Bibliometrics"
-date = "2024-08-07"
+date = "2026-03-06"
 aliases = ["publications", "bibliometrics"]
 author = "Terence van Zyl"
 +++
@@ -9,7 +9,7 @@ My bibliometrics (06-Mar-2026), for up to date values see: [Google Scholar](http
 
 ---
 
-#### 29 Journal Articles – 2 Book Chapters – 74 in Proceedings
+#### 30+ Journal Articles – 2 Book Chapters – 75+ in Proceedings
 
 - **h-index:** 19 (Scholar) / 13 (Scopus) 
 - **Citations:** 1279 (Scholar) / 652 (Scopus) 
