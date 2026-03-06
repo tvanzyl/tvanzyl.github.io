@@ -6,7 +6,7 @@ description: Partnering Qulinda
 math: true
 ---
 
-We continueto join forces with [Qulinda](https://qulinda.com/) to discuss deep learning, wildlife and livestock.
+We continue to join forces with [Qulinda](https://qulinda.com/) to discuss deep learning, wildlife and livestock.
 
 Here is a recent [podcast](https://play.pod.space/sv/qulinda-podden/avsnitt-3-machinelearning-and-ai-in-english).
 
