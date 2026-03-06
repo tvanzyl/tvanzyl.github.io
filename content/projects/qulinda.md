@@ -1,8 +1,8 @@
 ---
 author: Terence L van Zyl
-title: Partnering Qulinda
+title: Partnering with Qulinda
 date: 2026-03-06
-description: Partnering Qulinda
+description: Partnering with Qulinda
 math: true
 ---
 
